@@ -1,0 +1,25 @@
+[0.348s] Invoking command in '/home/lingp/Documents/eye_move/build/eye_tracking': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/lingp/Documents/eye_move/build/eye_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lingp/Documents/eye_move/build/eye_tracking/build --no-deps symlink_data
+[0.474s] running develop
+[0.533s] running egg_info
+[0.534s] creating eye_tracking.egg-info
+[0.534s] writing eye_tracking.egg-info/PKG-INFO
+[0.534s] writing dependency_links to eye_tracking.egg-info/dependency_links.txt
+[0.534s] writing entry points to eye_tracking.egg-info/entry_points.txt
+[0.534s] writing requirements to eye_tracking.egg-info/requires.txt
+[0.534s] writing top-level names to eye_tracking.egg-info/top_level.txt
+[0.534s] writing manifest file 'eye_tracking.egg-info/SOURCES.txt'
+[0.552s] reading manifest file 'eye_tracking.egg-info/SOURCES.txt'
+[0.552s] writing manifest file 'eye_tracking.egg-info/SOURCES.txt'
+[0.571s] running build_ext
+[0.571s] Creating /home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages/site.py
+[0.572s] Creating /home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages/eye-tracking.egg-link (link to .)
+[0.573s] Installing eye_tracking_node script to /home/lingp/Documents/eye_move/install/eye_tracking/lib/eye_tracking
+[0.573s] 
+[0.573s] Installed /home/lingp/Documents/eye_move/build/eye_tracking
+[0.573s] running symlink_data
+[0.573s] creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index
+[0.573s] creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index
+[0.573s] creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index/packages
+[0.573s] symbolically linking /home/lingp/Documents/eye_move/build/eye_tracking/resource/eye_tracking -> /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index/packages
+[0.573s] symbolically linking /home/lingp/Documents/eye_move/build/eye_tracking/package.xml -> /home/lingp/Documents/eye_move/install/eye_tracking/share/eye_tracking
+[0.588s] Invoked command in '/home/lingp/Documents/eye_move/build/eye_tracking' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/lingp/Documents/eye_move/build/eye_tracking/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lingp/Documents/eye_move/build/eye_tracking/build --no-deps symlink_data

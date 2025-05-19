@@ -1,0 +1,6 @@
+rm -rf build install log
+colcon build --symlink-install
+source install/setup.bash
+chmod +x ~/Documents/eye_move_ws/src/eye_tracking/eye_tracking/*.py
+
+ros2 run eye_tracking eye_tracking_node

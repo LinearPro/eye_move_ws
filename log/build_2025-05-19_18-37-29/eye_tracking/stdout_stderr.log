@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating eye_tracking.egg-info
+writing eye_tracking.egg-info/PKG-INFO
+writing dependency_links to eye_tracking.egg-info/dependency_links.txt
+writing entry points to eye_tracking.egg-info/entry_points.txt
+writing requirements to eye_tracking.egg-info/requires.txt
+writing top-level names to eye_tracking.egg-info/top_level.txt
+writing manifest file 'eye_tracking.egg-info/SOURCES.txt'
+reading manifest file 'eye_tracking.egg-info/SOURCES.txt'
+writing manifest file 'eye_tracking.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages/site.py
+Creating /home/lingp/Documents/eye_move/install/eye_tracking/lib/python3.8/site-packages/eye-tracking.egg-link (link to .)
+Installing eye_tracking_node script to /home/lingp/Documents/eye_move/install/eye_tracking/lib/eye_tracking
+
+Installed /home/lingp/Documents/eye_move/build/eye_tracking
+running symlink_data
+creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index
+creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index
+creating /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index/packages
+symbolically linking /home/lingp/Documents/eye_move/build/eye_tracking/resource/eye_tracking -> /home/lingp/Documents/eye_move/install/eye_tracking/share/ament_index/resource_index/packages
+symbolically linking /home/lingp/Documents/eye_move/build/eye_tracking/package.xml -> /home/lingp/Documents/eye_move/install/eye_tracking/share/eye_tracking

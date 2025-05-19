@@ -1,0 +1,3 @@
+[console_scripts]
+eye_tracking_node = eye_tracking.eye_tracking_node:main
+
